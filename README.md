@@ -1,4 +1,4 @@
-Portfolio VaR and Stress Testing Dashboard
+##Portfolio VaR and Stress Testing Dashboard
 
 This Python-based interactive dashboard, built with Streamlit, allows users to perform quantitative risk analysis on a user-defined portfolio. It calculates Value at Risk (VaR) using Historical and Parametric methods and includes a flexible dual-factor stress testing framework (General Market Shock + Rate-Sensitive Asset Shock).
 
@@ -32,7 +32,8 @@ cd portfolio-var-dashboard
 
 python -m venv venv
 source venv/bin/activate  # On Linux/macOS
-# or
+
+OR
 .\venv\Scripts\activate   # On Windows
 
 
